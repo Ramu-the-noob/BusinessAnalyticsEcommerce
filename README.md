@@ -1,4 +1,4 @@
-# 🛍️ UK Online Retail Store — Business Analytics (2010–2012)
+#  UK Online Retail Store — Business Analytics (2010–2012)
 
 **Author:** Aditya Saji
 
@@ -6,7 +6,7 @@ An end-to-end sales analysis of a UK-based wholesale online retailer, covering d
 
 ---
 
-## 📊 Key Metrics
+## Key Metrics
 
 | Metric | Value |
 |---|---|
@@ -22,7 +22,7 @@ An end-to-end sales analysis of a UK-based wholesale online retailer, covering d
 
 ```
 ├── data.csv              # Raw transaction data
-├── step_5.xlsx           # Cleaned data + pivot tables + dashboard
+├── final.xlsx           # Cleaned data + pivot tables + dashboard
 ├── Final.pdf             # Exported dashboard & analysis report
 └── README.md
 ```
@@ -64,7 +64,7 @@ Finalized the dashboard with all charts, KPIs, and segment breakdowns.
 
 ---
 
-## 👥 RFM Customer Segmentation
+## RFM Customer Segmentation
 
 Customers were scored on **Recency**, **Frequency**, and **Monetary** value (1–3 scale each), then segmented:
 
@@ -81,7 +81,7 @@ Customers were scored on **Recency**, **Frequency**, and **Monetary** value (1�
 
 ---
 
-## 🌍 Revenue by Country (Top 10)
+## Revenue by Country (Top 10)
 
 | Country | Revenue (£) |
 |---|---|
@@ -98,7 +98,11 @@ Customers were scored on **Recency**, **Frequency**, and **Monetary** value (1�
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - **Microsoft Excel** — data cleaning, pivot tables, charts, dashboard
 - **CSV** — raw data source
+
+- ## Data Source
+- **Kaggle** - https://www.kaggle.com/datasets/carrie1/ecommerce-data
+- **Data Author** - Dr Daqing Chen, Director: Public Analytics group
